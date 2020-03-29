@@ -1,1 +1,0 @@
-Now let's do a few more things with files. We're going to actually write a Python script to copy one file to another. It'll be very short but give you some ideas about other things you can do with files.
